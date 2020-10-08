@@ -1,2 +1,3 @@
 # escalonamentoCircular
-Disciplina SOTrabalho de desenvolvimento de 
+Disciplina SO
+Desenvolvimento de um algorítmo para Escalonamento Circular (Round Robin)
