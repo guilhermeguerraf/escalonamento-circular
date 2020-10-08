@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601945644 source:f:\ads\3º semestre\sistemas operacionais i\escalonamentocircular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"processos.h"
+
+1602182868 f:\ads\3º semestre\sistemas operacionais i\escalonamentocircular\processos.h
+
+1602192266 source:f:\ads\3º semestre\sistemas operacionais i\escalonamentocircular\processos.c
+	<stdio.h>
+	<stdlib.h>
+	"processos.h"
+
