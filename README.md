@@ -1,3 +1,3 @@
 # escalonamentoCircular
 Trabalho Disciplina SO:
-Desenvolvimento de um algorítmo para Escalonamento Circular (Round Robin)
+Desenvolvimento de um algorítmo em C para Escalonamento Circular (Round Robin)
